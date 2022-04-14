@@ -1,3 +1,5 @@
-This is a mirror of Richard WM Jones's excellent literate x86 assembly
-implementation of Forth, more on which here:
+This is a Forth for the Project Oberon RISC chip based on Richard Jones's Forth
+
 http://rwmj.wordpress.com/2010/08/07/jonesforth-git-repository/
+
+
